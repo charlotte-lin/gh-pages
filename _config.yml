@@ -8,7 +8,7 @@ email: charlotte@yahoo.com.tw
 avatar: assets/images/charlotte.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/gh-pages" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://charlottelin1125.github.io/gh-pages/" # the base hostname & protocol for your site
 
 # Social settings
