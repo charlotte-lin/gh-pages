@@ -1,31 +1,31 @@
-remote_theme: chrisbobbe/jekyll-theme-prologue
 
-title: Your awesome title
-subtitle: Your awesome subtitle
+title: Charlotte
+subtitle: A Portfolio
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
-author: Your Incredible Name
-email: your-email@example.com
-avatar: assets/images/avatar.jpg
+  Website and portfolio of Charlotte, National Taiwan Normal University Student.
+author: Cheng-Hung Hsieh
+email: charlotte@yahoo.com.tw
+avatar: assets/images/charlotte.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/gh-pages" # the subpath of your site, e.g. /blog
 url: "https://charlottelin1125.github.io/gh-pages/" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:
-github_url:
+facebook_url: https://www.facebook.com/evolcandi
+github_url: https://github.com/charlottelin1125
 googleplus_url:
-instagram_url:
+instagram_url: https://www.instagram.com
 linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url:
 
+
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
+remote_theme: chrisbobbe/jekyll-theme-prologue
 
 collections: [sections]
