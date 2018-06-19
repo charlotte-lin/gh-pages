@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{%- include header.html -%}
+
+
+{% highlight html %}
+{% raw %}
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {{ content }}
+  </body>
+</html>
+{% endraw %}
+{% endhighlight %}
