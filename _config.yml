@@ -1,4 +1,4 @@
-
+encoding: UTF-8
 title: Charlotte
 subtitle: A Portfolio
 description: >- # this means to ignore newlines until "baseurl:"
@@ -29,5 +29,3 @@ google_analytics:
 remote_theme: chrisbobbe/jekyll-theme-prologue
 
 collections: [sections]
-
-encoding: UTF-8
