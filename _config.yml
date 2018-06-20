@@ -29,3 +29,5 @@ google_analytics:
 remote_theme: chrisbobbe/jekyll-theme-prologue
 
 collections: [sections]
+
+encoding: UTF-8
